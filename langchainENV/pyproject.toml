@@ -25,6 +25,7 @@ dependencies = [
     "pypdf2>=3.0.1",
     "pytesseract>=0.3.13",
     "rapidocr-onnxruntime>=1.4.4",
+    "thefuzz>=0.22.1",
     "unstructured-inference>=1.5.2",
     "unstructured[all-docs]>=0.21.5",
 ]
