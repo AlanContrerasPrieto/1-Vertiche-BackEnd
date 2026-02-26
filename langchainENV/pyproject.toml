@@ -19,8 +19,12 @@ dependencies = [
     "numpy>=2.4.2",
     "pandas>=3.0.1",
     "pdf2image>=1.17.0",
+    "pi-heif>=1.2.1",
     "pillow>=12.1.1",
     "pypdf>=6.7.1",
     "pypdf2>=3.0.1",
     "pytesseract>=0.3.13",
+    "rapidocr-onnxruntime>=1.4.4",
+    "unstructured-inference>=1.5.2",
+    "unstructured[all-docs]>=0.21.5",
 ]
