@@ -1,0 +1,15 @@
+{
+    "archivo_fuente": "auditoria_contratos.pdf",
+    "metadatos": {
+        "Arrendador": "Nombre del Dueño",
+        "Arrendatario": "Nombre del Inquilino",
+        "Ubicacion_del_Local": "Dirección completa",
+        "Renta_Mensual": "$0,000.00",
+        "Vigencia_Inicio": "DD/MM/AAAA",
+        "Vigencia_Fin": "DD/MM/AAAA"
+    },
+    "clausulas": {
+        "CLÁUSULA PRIMERA": "Texto íntegro de la primera cláusula...",
+        "CLÁUSULA SEGUNDA": "Texto íntegro de la segunda cláusula..."
+    }
+}

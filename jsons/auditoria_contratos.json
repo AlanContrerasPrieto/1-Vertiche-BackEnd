@@ -1,0 +1,26 @@
+[
+    {
+        "Arrendador": "Nombre del Dueño",
+        "Arrendatario": "Nombre del Inquilino",
+        "Ubicacion_del_Local": "Dirección completa",
+        "Renta_Mensual": "$0,000.00",
+        "Vigencia_Inicio": "DD/MM/AAAA",
+        "Vigencia_Fin": "DD/MM/AAAA"
+    },
+    {
+        "Arrendador": "JUAN ALEGRIA QUINTANAR",
+        "Arrendatario": "COMERCIAL IAC, S.A. DE C.V.",
+        "Ubicacion_del_Local": "CALLE MIGUEL HIDALGO No. 6, COLONIA CENTRO, C.P. 76802, SAN JUAN DEL RÍO, QUERÉTARO",
+        "Renta_Mensual": "$29,703.76",
+        "Vigencia_Inicio": "01 DE NOVIEMBRE DE 2025",
+        "Vigencia_Fin": "31 DE OCTUBRE DE 2035"
+    },
+    {
+        "Arrendador": "C. Adolfo",
+        "Arrendatario": "COMERCIAL IAC, S. A. DE C. V.",
+        "Ubicacion_del_Local": "Calle 65 Local 1, Colonia Centro, C.P. 29000, Colima, Colima",
+        "Renta_Mensual": "$3,000.00 (tres mil pesos 00/100 M.N.) más I.V.A.",
+        "Vigencia_Inicio": "05 de noviembre de 2025",
+        "Vigencia_Fin": "30 de noviembre del 2035"
+    }
+]
